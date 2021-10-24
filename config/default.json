@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "yuriy pro mern",
+  "mongoUrl": "mongodb+srv://yuriypro:123TDapp@cluster0.t8zrn.azure.mongodb.net/TDapp?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
